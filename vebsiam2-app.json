@@ -1,0 +1,6 @@
+{ "name":"vebsIAM2 Reservation Example- Python",
+  "permissions": {
+		
+	},
+   "allow-publc-domain": true
+}

@@ -4,4 +4,7 @@ from django.http import HttpResponse
 
 @login_required
 def reserve(request):
-    return HttpResponse("Reservation Done")
+    
+    print request.user
+    
+    return HttpResponse("Reservation Done for "+str(request.user.username))
