@@ -14,6 +14,8 @@ MANAGERS = ADMINS
 
 SESSION_ENGINE = "vebsiam"
 
+IAMSERVER = 'localhost:8001'
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.

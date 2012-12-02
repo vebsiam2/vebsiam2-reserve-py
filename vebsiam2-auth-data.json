@@ -2,7 +2,8 @@
   "users": {
      "auser":{
          "firstname": "First",
-         "lastname": "User"
+         "lastname": "User",
+         "password": "password"
      }
   }
 }

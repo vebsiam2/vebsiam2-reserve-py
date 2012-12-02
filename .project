@@ -3,7 +3,6 @@
 	<name>vebs-reserve-py</name>
 	<comment></comment>
 	<projects>
-		<project>vebsiam-sdk</project>
 		<project>vebsiam2-sdk-django</project>
 	</projects>
 	<buildSpec>
